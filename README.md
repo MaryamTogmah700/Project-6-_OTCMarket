@@ -113,7 +113,7 @@ Dimension Data;
 
 - Data             
 
-C. Architecture
+C. Information Architecture
 
 It follows a Business Intelligence workflow;
 
@@ -209,7 +209,7 @@ F. Visualization
 
 The dashboard contains 6 visualizations.
 
-[OTC Dashboard.pdf](https://github.com/user-attachments/files/29872765/OTC.Dashboard.pdf)
+<img width="1347" height="691" alt="tcccc" src="https://github.com/user-attachments/assets/ec1a664b-c9e3-483b-b749-126eeed401bb" />
 
 1: Top 10 OTC Securities by Trading Volume shows securities with the highest trading volume.
 
